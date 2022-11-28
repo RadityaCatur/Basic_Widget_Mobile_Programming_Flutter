@@ -1,3 +1,5 @@
-# Berita_Layout
+# Layout Berita
+
 ## Hasil
+
 ![Hasil](assets/images/hasil.jpg)
